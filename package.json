@@ -1,0 +1,27 @@
+{
+  "name": "node-reptile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.3",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "koa-router": "^7.4.0",
+    "koa2": "^2.0.0-alpha.7",
+    "open": "^6.4.0",
+    "puppeteer": "^1.20.0",
+    "superagent": "^5.1.0",
+    "superagent-charset": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
